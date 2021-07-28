@@ -4,7 +4,6 @@ win_game = 0
 player_one_win =0
 player_two_win =0
 options = ["Rock", "Paper", "Scissors"]
-#print(random.choice(options))
 
 def player_one():
     player_one_roll = ""
